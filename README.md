@@ -1,8 +1,8 @@
 Ola,eu sou o Enzo Cortes.
 
-☣️ Estou cursando o primeiro semestre de ciências da computação.
+🚀 Estou cursando o primeiro semestre de ciências da computação.
 
-💲 Estou aprendendo pythom, banco de dados e assembly.
+👨‍💻 Estou aprendendo pythom, banco de dados e assembly.
 
 <div> 
 <img height="175" src="https://github-readme-stats.vercel.app/api?username=enzocmf&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
